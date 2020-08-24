@@ -1,7 +1,7 @@
 <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey, nice to see you.</h1>
 
 
-  <p>Welcome to my page! </br> I'm Arijit Roy, Machine Learning engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>New Delhi, India</b>, currently studying Computer Science in <b>Manipal University, Jaipur</b>. </p>
+  <p>Welcome to my page! </br> I'm Arijit Roy, Machine Learning engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>New Delhi, India</b>, currently studying Computer Science in <b>Manipal University, Jaipur</b>. I like working with staistics, calculus and algorithms. My field of interest is mainly computer vision and  image processing.</p>
 <h3>Things I code with <img src="https://slackmojis.com/emojis/6988-thinking_with_blobs/download" width="20"></h3>
 <p>
   
@@ -54,7 +54,7 @@
 </p>
 <br>
 <br>
-<h3>My Projects</h3>
+<h3>My Projects  <img src="https://slackmojis.com/emojis/5948-bongo_blob/download" width="25"></h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -90,5 +90,16 @@
   </tbody>
 </table>
 
-<h3>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</h3>
-<p><img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;118121495_331089938080168_4374953785885949964_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;tXPOUoh640AAX8Vi5TD&amp;oh&#x3D;56cdd417dcc2fb0eed19df474e7b0589&amp;oe&#x3D;5F6E1D05" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;118045278_590200431858764_7758363973016951749_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;G7WHxralrxgAX_H0lUn&amp;oh&#x3D;e4361fa811aabc002bd6afd6b86b3acc&amp;oe&#x3D;5F6B2E3A" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;117802758_1272084403135080_8772269852515386865_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;cJF634AzNKAAX9Hgz86&amp;oh&#x3D;4e5e084254a5f6efba601ea08ddecc14&amp;oe&#x3D;5F6A6CBB" /></p>
+
+<h3>My latest projects <img src="https://slackmojis.com/emojis/4246-blob-sunglasses/download" width="25"></h3>
+<ul>
+  <li><a href="https://github.com/radioactive11/rezonance" width="20" alt="new">re<b>Z</b>onance</b></a><br/><i>A content based recommendation system which eliminates the cold start problem</i></li>
+
+  <li><a href="https://github.com/radioactive11/Facial-Expression-Recognition"><b>Facial Expression Recognition (Kaggle Competition 2013)</b></a><br/><i>Detect human emotions from facial images</i></li>
+
+  <li><a href="https://github.com/radioactive11/ML-Notebooks"><b>ML/EDA notebooks</b></a><br/><i>Notebooks containing Exploratory Data Analysis and Feature Engineering</i></li>
+
+</ul>
+<h4><img src="https://slackmojis.com/emojis/6015-meow_camera/download" width="20"> Here is an image of my university</h4>
+<br>
+<img src="https://github.com/radioactive11/radioactive11/blob/master/images/Snapchat-753451355.jpg" alt="image">
