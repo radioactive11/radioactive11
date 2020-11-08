@@ -97,11 +97,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/radioactive11/ALPR-India?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-		  <td><a href="https://github.com/radioactive11/HealthBridge"><b>HealthBridge</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/radioactive11/HealthBridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/radioactive11/HealthBridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/radioactive11/rezonance?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/radioactive11/HealthBridge?style=flat-square&labelColor=343b41"/></td>
+		  <td><a href="https://github.com/radioactive11/Project-Stonks"><b>Project Stonks</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/radioactive11/Project-Stonks?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/radioactive11/Project-Stonks?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/radioactive11/Project-Stonks?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/radioactive11/Project-Stonks?style=flat-square&labelColor=343b41"/></td>
     </tr>
 		<tr>
 			<td><a href="https://github.com/radioactive11/rezonance"><b>re<strong>Z</strong>onance</b></a></td>
