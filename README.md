@@ -1,7 +1,8 @@
 <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey, nice to see you.</h1>
 
 
-  <p>Welcome to my page! </br> I'm Arijit Roy, Machine Learning engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>New Delhi, India</b>, currently studying Computer Science. I like building end to end machine learning/deep learning applications. My field of interest is mainly computer vision and  MLOps.</p>
+  <p>Welcome to my page! </br> I'm Arijit Roy, Machine Learning <img style="float: right" src="images/radiation.gif" height=225 width =300> engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>New Delhi, India</b>, currently studying Computer Science. I like building end to end machine learning/deep 
+  learning applications. My field of interest is mainly computer vision and  MLOps.</p>
 <h3>Things I code with <img src="https://slackmojis.com/emojis/6988-thinking_with_blobs/download" width="20"></h3>
 <p>
   
