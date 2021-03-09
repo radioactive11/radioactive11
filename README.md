@@ -7,9 +7,7 @@
 
 <h4>AI</h4>
 
-<img alt="TF" src="https://img.shields.io/badge/Tensorflow-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img alt="PyTorch" src="https://img.shields.io/badge/Pytorch-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img alt="TF" src="https://img.shields.io/badge/Tensorflow-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/Pytorch-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 
 
   
