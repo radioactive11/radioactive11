@@ -36,23 +36,14 @@
 
 <img alt="TF" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/> 
 
-
-
-<br>
-<br>
 <h4><strong>DevOPs</strong></h4>
 
 <img alt="TF" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
 
-<br>
-<br>
 <h4><strong>IoT</strong></h4>
 
 <img alt="TF" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&logo=amazon-alexa&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Eagle-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/>
 
-
-
-<br>
 <br>
 <h3>My Projects  <img src="https://slackmojis.com/emojis/5948-bongo_blob/download" width="25"></h3>
 <table>
