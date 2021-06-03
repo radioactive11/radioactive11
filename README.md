@@ -6,9 +6,9 @@ engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" wid
   learning applications. My field of interest is mainly computer vision and  MLOps.</p>
 
 <br>
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" align/>
-</p>
+</p> -->
 <br>
 <h3>Things I code with <img src="https://slackmojis.com/emojis/6988-thinking_with_blobs/download" width="20"></h3>
 <h4><strong>Languages</strong></h4>
