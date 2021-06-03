@@ -61,8 +61,7 @@ engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" wid
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=radioactive11&theme=jolly&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="radioactive11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=radioactive11&theme=jolly&hide_border=true"/>
   </a>
   <img src="https://activity-graph.herokuapp.com/graph?username=radioactive11&theme=synthwave&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
