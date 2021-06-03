@@ -59,6 +59,7 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=radioactive11&theme=jolly&hide_border=true"/>
   </a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=radioactive11&theme=synthwave&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <h4><strong>Tools I use: </strong><img src="https://slackmojis.com/emojis/6017-meow_cookie/download" width="25"></h4>
