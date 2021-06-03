@@ -45,58 +45,27 @@
 <img alt="TF" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&logo=amazon-alexa&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Eagle-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/>
 
 <br>
-<h3>My Projects  <img src="https://slackmojis.com/emojis/5948-bongo_blob/download" width="25"></h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-	    <td><a href="https://github.com/radioactive11/ALPR-India"><b>ALPR India</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/radioactive11/ALPR-India?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/radioactive11/ALPR-India?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/radioactive11/ALPR-India?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/radioactive11/ALPR-India?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-		  <td><a href="https://github.com/radioactive11/HealthBridge"><b>HealthBridge</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/radioactive11/HealthBridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/radioactive11/HealthBridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/radioactive11/HealthBridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/radioactive11/HealthBridge?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-		<tr>
-			<td><a href="https://github.com/radioactive11/rezonance"><b>re<strong>Z</strong>onance</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/radioactive11/rezonance?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/radioactive11/rezonance?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/radioactive11/rezonance?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/radioactive11/rezonance?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
 
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=rezonance&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=healthbridge&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=alpr-india&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=project-stonks&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=the-lyrics-api&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=pneumonia-detector&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+</p>
 
-<h3>My latest projects <img src="https://slackmojis.com/emojis/4246-blob-sunglasses/download" width="25"></h3>
-<ul>
-  <li><a href="https://github.com/radioactive11/rezonance" width="20" alt="new">re<b>Z</b>onance</b></a><br/><i>A content based recommendation system which eliminates the cold start problem</i></li>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=radioactive11&theme=jolly&hide_border=true"/>
+  </a>
+</p>
 
-  <li><a href="https://github.com/radioactive11/Facial-Expression-Recognition"><b>Facial Expression Recognition (Kaggle Competition 2013)</b></a><br/><i>Detect human emotions from facial images</i></li>
-
-  <li><a href="https://github.com/radioactive11/ML-Notebooks"><b>ML/EDA notebooks</b></a><br/><i>Notebooks containing Exploratory Data Analysis and Feature Engineering</i></li>
-
-</ul>
-
-<h4>Tools I use: <img src="https://slackmojis.com/emojis/6017-meow_cookie/download" width="25"></h4>
+<h4><strong>Tools I use: </strong><img src="https://slackmojis.com/emojis/6017-meow_cookie/download" width="25"></h4>
 
 <img alt="TF" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
 
-
-<h4>Contact Me: <img src="https://slackmojis.com/emojis/6020-meow_headache/download" width="25"></h4>
-
+<h4 align="center"><strong>Contact Me </strong><img src="https://slackmojis.com/emojis/6020-meow_headache/download" width="25"></h4>
+<p align="center">
 <a href="https://wa.me/919477777266"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a> <a href="https://t.me/radioactive11"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/this_is_radioactive11/"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
+</p>
