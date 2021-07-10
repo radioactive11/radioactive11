@@ -4,12 +4,10 @@
   <p>Welcome to my page! </br> I'm Arijit Roy, Machine Learning
 engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>New Delhi, India</b>, currently studying Computer Science. I like building end to end machine learning/deep 
   learning applications. My field of interest is mainly computer vision and  MLOps.</p>
+<p>
+  I also develop scalable and backends using Python and currently learning more about system design :space_invader:
+</p>
 
-<br>
-<!-- <p align="center">
-<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" align/>
-</p> -->
-<br>
 <h3>Things I code with <img src="https://slackmojis.com/emojis/6988-thinking_with_blobs/download" width="20"></h3>
 <h4><strong>Languages</strong></h4>
 
@@ -29,7 +27,7 @@ engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" wid
 
 <h4><strong>Database</strong></h4>
 
-<img alt="TF" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/PostgresSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+<img alt="TF" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/PostgresSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 
 
 <h4><strong>Backend</strong></h4>
@@ -71,6 +69,10 @@ engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" wid
 <img alt="TF" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
 
 <h4 align="left"><strong>Contact Me </strong><img src="https://slackmojis.com/emojis/6020-meow_headache/download" width="25"></h4>
-<p align="center">
+<p align="left">
 <a href="https://wa.me/919477777266"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a> <a href="https://t.me/radioactive11"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/this_is_radioactive11/"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
+</p>
+ <br>
+<p align="center">
+<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" align/>
 </p>
