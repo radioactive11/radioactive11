@@ -1,24 +1,15 @@
 <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey, nice to see you.</h1>
 
-<img src="images/header.jpg">
 
 <br>
 
   <p>Welcome to my page! </br> I'm Arijit Roy, Machine Learning
 engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>New Delhi, India</b>, currently studying Computer Science. I like building end to end machine learning/deep 
   learning applications. My field of interest is mainly computer vision and  MLOps.</p>
-<<<<<<< HEAD
-<br>
-<!-- <p align="center">
-<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" align/>
-</p> -->
-<br>
-=======
 <p>
   I also develop scalable and backends using Python and currently learning more about system design :space_invader:
 </p>
 
->>>>>>> 733e3309980b926696e1d51357f634b7e5e74994
 <h3>Things I code with <img src="https://slackmojis.com/emojis/6988-thinking_with_blobs/download" width="20"></h3>
 <h4><strong>Languages</strong></h4>
 
