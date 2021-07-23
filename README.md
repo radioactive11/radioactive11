@@ -1,10 +1,12 @@
 <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey, nice to see you.</h1>
 
+<img src="images/header.jpg">
+
+<br>
 
   <p>Welcome to my page! </br> I'm Arijit Roy, Machine Learning
 engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>New Delhi, India</b>, currently studying Computer Science. I like building end to end machine learning/deep 
   learning applications. My field of interest is mainly computer vision and  MLOps.</p>
-
 <br>
 <!-- <p align="center">
 <img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" align/>
