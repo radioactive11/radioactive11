@@ -52,16 +52,16 @@ engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" wid
 <br>
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=rezonance&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=healthbridge&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=alpr-india&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=project-stonks&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=the-lyrics-api&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=pneumonia-detector&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/rezonance-india/engine-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezonance-india&repo=engine-api&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/radioactive11/rezonance"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=rezonance&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/radioactive11/alpr-india"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=alpr-india&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/radioactive11/project-stonks"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=project-stonks&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/radioactive11/the-lyrics-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=the-lyrics-api&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/radioactive11/healthbridge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=healthbridge&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
 </p>
 
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="radioactive11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=radioactive11&theme=jolly&hide_border=true"/>
+    
   </a>
   <img src="https://activity-graph.herokuapp.com/graph?username=radioactive11&theme=synthwave&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
@@ -72,7 +72,7 @@ engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" wid
 
 <h4 align="left"><strong>Contact Me </strong><img src="https://slackmojis.com/emojis/6020-meow_headache/download" width="25"></h4>
 <p align="left">
-<a href="https://wa.me/919477777266"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a> <a href="https://t.me/radioactive11"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/this_is_radioactive11/"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
+ <a href="https://t.me/radioactive11"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/this_is_radioactive11/"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
 </p>
  <br>
 <p align="center">
