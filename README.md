@@ -4,8 +4,9 @@
 
 <br>
 
-<h2 align='center'>Welcome to my page!</h2> </br> I'm Arijit Roy, Machine Learning
-engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>New Delhi, India</b>, currently studying Computer Science. I am studying deep learning & machine learning operations. </p>
+<h3 align='center'>Welcome to my page!</h3>
+</br> 
+I'm Arijit Roy, Machine Learning engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>New Delhi, India</b>, currently studying Computer Science. I am studying deep learning & machine learning operations. </p>
 <p align='center'>
   I also develop ML based applications and backends using Python :space_invader:
 </p>
