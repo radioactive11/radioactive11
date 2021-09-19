@@ -4,9 +4,9 @@
 
 <br>
 
-<p align='center'>Welcome to my page! </br> I'm Arijit Roy, Machine Learning
+<h2 align='center'>Welcome to my page!</h2> </br> I'm Arijit Roy, Machine Learning
 engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>New Delhi, India</b>, currently studying Computer Science. I am studying deep learning & machine learning operations. </p>
-<p>
+<p align='center'>
   I also develop ML based applications and backends using Python :space_invader:
 </p>
 
@@ -20,15 +20,16 @@ engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" wid
 </p>
 
 
+<h4 align='center'><strong>Data Engineering</strong></h4>
+<p align='center'>
+<img alt="TF" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-013243?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>  <img alt="TF" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>  
+</p>
+
 <h4 align='center'><strong>AI</strong></h4>
 <p align='center'>
 <img alt="TF" src="https://img.shields.io/badge/Tensorflow-EE4C2C?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/Pytorch-D00000?style=for-the-badge&logo=pytorch&logoColor=white"/> <img alt="SkL" src="https://img.shields.io/badge/SciKit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-<h4 align='center'><strong>Data Engineering</strong></h4>
-<p align='center'>
-<img alt="TF" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-013243?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>  <img alt="TF" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>  
-</p>
 
 <h4 align='center'><strong>Database</strong></h4>
 <p align='center'>
