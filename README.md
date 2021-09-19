@@ -1,13 +1,13 @@
-<h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey, nice to see you.</h1>
+<!-- <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey, nice to see you.</h1> -->
 
+<img src="images/header.png"/>
 
 <br>
 
   <p>Welcome to my page! </br> I'm Arijit Roy, Machine Learning
-engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>New Delhi, India</b>, currently studying Computer Science. I like building end to end machine learning/deep 
-  learning applications. My field of interest is mainly computer vision and  MLOps.</p>
+engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>New Delhi, India</b>, currently studying Computer Science. I am studying deep learning & machine learning operations. </p>
 <p>
-  I also develop scalable and backends using Python and currently learning more about system design :space_invader:
+  I also develop ML based applications and backends using Python :space_invader:
 </p>
 
 <h3>Things I code with <img src="https://slackmojis.com/emojis/6988-thinking_with_blobs/download" width="20"></h3>
@@ -37,17 +37,11 @@ engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" wid
 <img alt="TF" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/nginx-269539?style=for-the-badge&logo=nginx&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/apache-A81C7D?style=for-the-badge&logo=apache&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white"/> 
 
 
-<h4><strong>Frontend</strong></h4>
-
-<img alt="TF" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/> 
-
 <h4><strong>DevOPs</strong></h4>
 
 <img alt="TF" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
 
-<h4><strong>IoT</strong></h4>
 
-<img alt="TF" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&logo=amazon-alexa&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Eagle-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/>
 
 <br>
 
