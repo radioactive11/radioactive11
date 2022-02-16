@@ -46,7 +46,8 @@ I'm Arijit Roy, aspiring Machine Learning engineer from <b>New Delhi, India</b>,
 <h4 align='center'><strong>DevOPs</strong></h4>
 <p align='center'>
 <img alt="TF" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
-<img alt="TF" src="https://img.shields.io/badge/pytest-0a9edc?style=for-the-badge&logo=pytest&logoColor=white"/> 
+<img alt="TF" src="https://img.shields.io/badge/pytest-0a9edc?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img alt="TF" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 
