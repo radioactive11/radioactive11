@@ -66,7 +66,6 @@ I'm Arijit Roy, aspiring Machine Learning engineer from <b>New Delhi, India</b>,
 
 <p align="center">
     
-  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=radioactive11&theme=synthwave&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <h4 align='center'><strong>Tools I use: </strong><img src="https://slackmojis.com/emojis/6017-meow_cookie/download" width="25"></h4>
