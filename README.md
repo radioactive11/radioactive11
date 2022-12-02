@@ -80,5 +80,5 @@ I'm Arijit Roy, aspiring Machine Learning engineer from <b>New Delhi, India</b>,
 </p>
  <br>
 <p align="center">
-<a href="https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV?si=fb827f29982d46ab" target="_blank"><img src="https://apple-music-card.onrender.com" alt="Your alt what" width="500" align="center"/></a>
+<a href="https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV?si=fb827f29982d46ab" target="_blank"><img src="https://apple-music-card.onrender.com" alt="Your alt what" width="300" height="400" align="center"/></a>
 </p>
