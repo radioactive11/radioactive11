@@ -78,7 +78,3 @@ I'm Arijit Roy, aspiring Machine Learning engineer from <b>New Delhi, India</b>,
 <p align="center">
  <a href="https://t.me/radioactive11"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/this_is_radioactive11/"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
 </p>
- <br>
-<p align="center">
-<a href="https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV?si=fb827f29982d46ab" target="_blank"><img src="https://apple-music-card.onrender.com" alt="Your alt what" width="300" height="400" align="center"/></a>
-</p>
