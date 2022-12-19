@@ -8,7 +8,7 @@ I am Arijit Roy, a backend and machine learning engineer from New Delhi, India. 
 
 <br>
 
-Here non-exhaustive list of things I do:
+Here is a non-exhaustive list of things I do:
 <li> Extracting meaningful insights from data
 <li> Building recommendation engines
 <li> Working on classification and clustering problems
