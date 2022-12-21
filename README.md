@@ -1,4 +1,4 @@
-<img src="static/header.png">
+<img src="./static/header.png">
 
 <br>
 <br>
