@@ -1,9 +1,9 @@
-<img src="static/header.png">
+<img src="static/banner.png">
 
 <br>
 <br>
 
-<img src="static/memoji.png" width="200" align="right">
+<img src="static/me-moji.png" width="200" align="right">
 I am Arijit Roy, a backend and machine learning engineer from New Delhi, India. I develop products that are that are driven by data and innovation.
 
 <br>
