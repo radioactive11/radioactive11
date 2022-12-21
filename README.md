@@ -7,15 +7,15 @@
 I am Arijit Roy, a backend and machine learning engineer from New Delhi, India. I develop products that are that are driven by data and innovation.
 
 <br>
-
-Here non-exhaustive list of things I do:
-<li> Extracting meaningful insights from data
-<li> Building recommendation engines
-<li> Working on classification and clustering problems
-<li> Work with computation/data engineering libraries like Pandas, Numpy, PyTorch, OpenCV, etc
-<li> Utilize cloud technologies like Cognitive Services, Storage, AzureML, etc.
-<li> Build webservers using tools like Django, FastAPI, Celery, Redis, Apache Airflow, etc.
-
+Here is a non-exhaustive list of things I do:
+<ul>
+    <li> Extracting meaningful insights from data</li>
+    <li> Building recommendation engines</li>
+    <li> Working on classification and clustering problems</li>
+    <li> Work with computation/data engineering libraries like Pandas, Numpy, PyTorch, OpenCV, etc</li>
+    <li> Utilize cloud technologies like Cognitive Services, Storage, AzureML, etc.</li>
+    <li> Build webservers using tools like Django, FastAPI, Celery, Redis, Apache Airflow, etc.</li>
+</ul>
 <br>
 <br>
 <summary><h2>⚙️ Technologies I Use</h2></summary>
