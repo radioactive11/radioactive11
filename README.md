@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img src="https://res.cloudinary.com/daimnidk6/image/upload/v1671628072/github-assets/me-moji_h0xgbp.png" width="200" align="right">
+<img src="https://res.cloudinary.com/daimnidk6/image/upload/v1671984255/github-assets/header_v8t1yj.png" width="200" align="right">
 I am Arijit Roy, a backend and machine learning engineer from New Delhi, India. I develop products that are that are driven by data and innovation.
 
 <br>
