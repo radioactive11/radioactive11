@@ -100,6 +100,7 @@ Here is a non-exhaustive list of things I do:
             <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=000&labelColor=000000">
             <img src="https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=black&color=fff&labelColor=fff">
             <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=000&labelColor=000000">
+            <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=000&labelColor=000000">
         </td>
     </tr>
 </table>
@@ -115,6 +116,7 @@ Here is a non-exhaustive list of things I do:
 <a href="https://github.com/radioactive11/apple-music-readme"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=apple-music-readme&theme=graywhite&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
 <a href="https://github.com/radioactive11/the-lyrics-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=the-lyrics-api&theme=graywhite&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
 <a href="https://github.com/radioactive11/diode"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=diode&theme=graywhite&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+
 </div>
 
 <br>
