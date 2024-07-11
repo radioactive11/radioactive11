@@ -159,8 +159,12 @@ Here is a non-exhaustive list of things I do:
  </a>
  <a href="https://linkedin.com/in/arijitroy11" target="_blank">
  <img alt="TF" src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=fff&labelColor=000"/>
+ </a>
 </div>
-
+<br>
+<div align="center">
+    <p>Side Project <a href="https://github.com/radhikakakkar">@radhikakakkar</a> 😏</p>
+</div>
 
 <!-- Logo Marocs -->
 
